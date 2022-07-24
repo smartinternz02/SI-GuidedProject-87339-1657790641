@@ -2,6 +2,9 @@
 Fertilizers Recommendation System For Disease Prediction
 
 Please find below the google drive links of the two model files and the zip file of the dataset that I have used in the project:
+
 vegetable.h5: https://drive.google.com/file/d/1kxaztfVJrnxjG9wJDJmKGifdLzgEW12Y/view?usp=sharing 
+
 fruit.h5: https://drive.google.com/file/d/15-LtbdWewL62UiuCdhoktZbF9clMXdsg/view?usp=sharing 
+
 Dataset: https://drive.google.com/file/d/1OTjyJqTNgSJCW_GyUfwQXm1J1aQDVXYK/view?usp=sharing 
